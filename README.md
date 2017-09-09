@@ -1,4 +1,5 @@
 # HoplaCSS
 
-code cd HoplaCSS
-code compass watch
+cd HoplaCSS
+
+compass watch
